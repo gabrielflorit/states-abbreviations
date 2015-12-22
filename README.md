@@ -8,7 +8,7 @@ A dictionary of states by their abbreviations
 ```javascript
 import stateAbbreviations from 'states-abbreviations';
 
-const abbreviation = 'ma';
+const abbreviation = 'MA';
 const name = stateAbbreviations[abbreviation];
 console.log(name); // Massachusetts
 ```
