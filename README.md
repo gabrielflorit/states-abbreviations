@@ -5,7 +5,7 @@ A dictionary of states by their abbreviations
 `npm install --save states-abbreviations`
 
 ## usage
-```
+```javascript
 import stateAbbreviations from 'states-abbreviations';
 
 const abbreviation = 'ma';
