@@ -1,0 +1,20 @@
+{
+  "name": "states-abbreviations",
+  "version": "1.0.0",
+  "description": "A dictionary of states by their abbreviations",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielflorit/states-abbreviations.git"
+  },
+  "keywords": [
+    "states",
+    "abbreviations"
+  ],
+  "author": "Gabriel Florit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielflorit/states-abbreviations/issues"
+  },
+  "homepage": "https://github.com/gabrielflorit/states-abbreviations#readme"
+}
